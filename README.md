@@ -26,7 +26,8 @@ With Deneb's capabilities, I've been able to create dynamic time series charts a
     
 <img width="719" alt="Thumb1" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/0387a75d-12a6-41a8-862b-d02320367722">
 
-# Isotype Dot Plot with Emoji with Regions
+# Emoji-filled isotype dot plot divided by Regions
+
 
 
 # Meat: 🍔, Clostridium botulinum: 🦠, Protection: 🥦, Reasons: ❓ 
