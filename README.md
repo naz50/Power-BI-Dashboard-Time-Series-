@@ -30,7 +30,7 @@ With Deneb's capabilities, I've been able to create dynamic time series charts a
 
 
 
- Meat: 🍔, Clostridium botulinum: 🦠, Protection: 🥦, Reasons: ❓ 
+# Meat: 🍔, Clostridium botulinum: 🦠, Protection: 🥦, Reasons: ❓ 
 
 <img width="603" alt="image" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/ed0feff9-9783-40a7-bb16-fce19ed9eb86">
 
