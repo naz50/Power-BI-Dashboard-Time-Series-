@@ -2,7 +2,7 @@
 
  # مشروع لوحة معلومات السلاسل الزمنية للمصطلحات (اللحوم، الأسباب، الوقاية، بكتيريا كلوستريديوم بوتولينيوم) التي بحث عنها الأشخاص في المملكة العربية السعودية في الفترة مابين 24 أبريل إلى 9 مايو 2024
 
-Deneb Tool is an extension leveraging Vega and Vega-Lite JSON that has been instrumental in creating highly customized visualizations for this project.
+# Deneb Tool  is an extension leveraging Vega and Vega-Lite JSON that has been instrumental in creating highly customized visualizations for this project.
 
 𝐕𝐞𝐠𝐚-𝐋𝐢𝐭𝐞'𝐬  high-level grammar of interactive graphics allowed for rapid generation of insightful visualizations, while 𝐕𝐞𝐠𝐚'𝐬  more low-level approach provided granular control over design elements.
 
