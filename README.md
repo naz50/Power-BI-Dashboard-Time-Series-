@@ -8,7 +8,7 @@
 
 With Deneb's capabilities, I've been able to create dynamic time series charts and interactive trend analysis for search terms.
 
-𝐓𝐡𝐮𝐬, 𝐭𝐡𝐞 𝐨𝐮𝐭𝐜𝐨𝐦𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐞𝐫𝐞 𝐨𝐮𝐭𝐥𝐢𝐧𝐞𝐝 𝐚𝐬 𝐟𝐨𝐥𝐥𝐨𝐰𝐬:
+𝐓𝐡𝐮𝐬, 𝐭𝐡𝐞 𝐨𝐮𝐭𝐜𝐨𝐦𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐞𝐫𝐞 𝐨𝐮𝐭𝐥𝐢𝐧𝐞𝐝 𝐚𝐬 𝐟𝐨𝐥𝐥𝐨𝐰𝐬:</br>
 1- On April 26, the term "Clostridium botulinum" witnessed the highest search volume in Saudi Arabia, corresponding with the announcement of food poisoning cases by the official spokesperson for the Ministry of Health and the press statement of Riyadh Region Municipality.</br>
 2- May 3 recorded high search activity for "Meat," notably corresponding with a press statement regarding food poisoning incidents.</br>
 3- Search rates for all terms experienced a decline on May 6, followed by a resurgence on May 7.</br>
