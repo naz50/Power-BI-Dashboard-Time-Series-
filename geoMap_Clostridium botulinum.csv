@@ -1,0 +1,53 @@
+Region,Factors,Longitude,Latitude,Percentage
+Eastern Province,Meat,50.09151135,26.42188627,42%
+Eastern Province,Reasons,50.09151135,26.42188627,10%
+Eastern Province,Protection,50.09151135,26.42188627,23%
+Eastern Province,Clostridium botulinum,50.09151135,26.42188627,25%
+Al Bahah Province,Meat,41.4677,20.0129,46%
+Al Bahah Province,Reasons,41.4677,20.0129,0%
+Al Bahah Province,Protection,41.4677,20.0129,26%
+Al Bahah Province,Clostridium botulinum,41.4677,20.0129,28%
+Riyadh Province,Meat,46.6753,24.7136,29%
+Riyadh Province,Reasons,46.6753,24.7136,10%
+Riyadh Province,Protection,46.6753,24.7136,21%
+Riyadh Province,Clostridium botulinum,46.6753,24.7136,40%
+Al-Qassim,Meat,43.96792072,26.35917213,34%
+Al-Qassim,Reasons,43.96792072,26.35917213,16%
+Al-Qassim,Protection,43.96792072,26.35917213,29%
+Al-Qassim,Clostridium botulinum,43.96792072,26.35917213,21%
+Aseer Province,Meat,42.5036,18.2315,36%
+Aseer Province,Reasons,42.5036,18.2315,19%
+Aseer Province,Protection,42.5036,18.2315,30%
+Aseer Province,Clostridium botulinum,42.5036,18.2315,15%
+Al Jowf,Meat,39.557,29.9668,34%
+Al Jowf,Reasons,39.557,29.9668,22%
+Al Jowf,Protection,39.557,29.9668,29%
+Al Jowf,Clostridium botulinum,39.557,29.9668,15%
+Al Madinah Province,Meat,39.6122,24.4709,29%
+Al Madinah Province,Reasons,39.6122,24.4709,18%
+Al Madinah Province,Protection,39.6122,24.4709,39%
+Al Madinah Province,Clostridium botulinum,39.6122,24.4709,14%
+Mecca,Meat,39.8579,21.3891,29%
+Mecca,Reasons,39.8579,21.3891,18%
+Mecca,Protection,39.8579,21.3891,39%
+Mecca,Clostridium botulinum,39.8579,21.3891,14%
+Jazan,Meat,42.5609,16.8893,25%
+Jazan,Reasons,42.5609,16.8893,23%
+Jazan,Protection,42.5609,16.8893,46%
+Jazan,Clostridium botulinum,42.5609,16.8893,6%
+Najran,Meat,44.2191,17.5391,31%
+Najran,Reasons,44.2191,17.5391,24%
+Najran,Protection,44.2191,17.5391,45%
+Najran,Clostridium botulinum,44.2191,17.5391,0%
+Hail Province,Meat,41.6904,27.5189,32%
+Hail Province,Reasons,41.6904,27.5189,27%
+Hail Province,Protection,41.6904,27.5189,41%
+Hail Province,Clostridium botulinum,41.6904,27.5189,0%
+Tabuk Province,Meat,36.5662,28.3835,25%
+Tabuk Province,Reasons,36.5662,28.3835,19%
+Tabuk Province,Protection,36.5662,28.3835,36%
+Tabuk Province,Clostridium botulinum,36.5662,28.3835,20%
+Northern Borders Region,Meat,43.949,29.7855,0%
+Northern Borders Region,Reasons,43.949,29.7855,50%
+Northern Borders Region,Protection,43.949,29.7855,50%
+Northern Borders Region,Clostridium botulinum,43.949,29.7855,0%
