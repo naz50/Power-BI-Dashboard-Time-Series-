@@ -22,6 +22,18 @@ With Deneb's capabilities, I've been able to create dynamic time series charts a
     
 <img width="719" alt="Thumb1" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/0387a75d-12a6-41a8-862b-d02320367722">
 
+# Isotype Dot Plot with Emoji with Regions
+
+
+# Meat: 🍔, Clostridium botulinum: 🦠, Protection: 🥦, Reasons: ❓ 
+
+<img width="603" alt="image" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/ed0feff9-9783-40a7-bb16-fce19ed9eb86">
+
+
+
+<img width="604" alt="image" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/1073c299-1d42-4e1f-a76c-1ce3c4276cec">
+
+
 
 # Dashboard link 👇 
 https://app.powerbi.com/view?r=eyJrIjoiOGZjYWZjYjctNDEyZi00ZmE5LTkwMzQtOWNkYTRkZTg3YTA3IiwidCI6IjMzYTllMjJjLTUwOWUtNDYyNC05NmNjLTc2OWFjNzk2OGNhNSIsImMiOjl9&pageName=ReportSection
