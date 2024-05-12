@@ -20,6 +20,10 @@ With Deneb's capabilities, I've been able to create dynamic time series charts a
     <p dir="rtl">3- انخفضت معدلات البحث لجميع المصطلحات في 6 مايو، ثم ارتفعت مجددًا في 7 مايو.</p>
     <p dir="rtl">4- تتقاطع مصطلحات البحث في فترات زمنية معينة، مما يشير إلى الارتباطات المحتملة بينها أو السياقات المشتركة.</p>
     
+<img width="722" alt="Thumb" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/8b5552fd-fc25-4295-b8b6-d301374e3481">
+
+</br>
+    
 <img width="719" alt="Thumb1" src="https://github.com/naz50/Power-BI-Dashboard-Time-Series-/assets/74384259/0387a75d-12a6-41a8-862b-d02320367722">
 
 # Isotype Dot Plot with Emoji with Regions
